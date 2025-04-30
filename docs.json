@@ -40,7 +40,7 @@
           {
             "group": "Endpoints",
             "openapi": {
-              "source": "orders_v2.json"
+              "source": "openapi/orders_v2.json",
             }
           }
         ]
