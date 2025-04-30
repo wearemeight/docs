@@ -12,6 +12,7 @@
     "tabs": [
       {
         "tab": "Guides",
+        "openapi": "https://api.meight.com/v1/orders/openapi.json"
         "groups": [
           {
             "group": "Get Started",
