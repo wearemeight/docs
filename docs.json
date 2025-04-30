@@ -36,7 +36,15 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "https://api.meight.com/v1/orders/openapi.json"
+        "groups": [
+        {
+          "group": "Endpoints",
+          "openapi": {
+            "source": "https://api.meight.com/v1/orders/openapi.json",
+            "directory": "api-reference"
+          }
+        }
+      ]
       }
     ],
     "global": {
